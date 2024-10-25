@@ -1,0 +1,7 @@
+hh\ma\ac\inpt\domaine\Product.class
+hh\ma\ac\inpt\server\ServicePublisher.class
+hh\ma\ac\inpt\service\ProductsManagerImpl.class
+hh\ma\ac\inpt\translationLayer\SoapRestTranslationLayer.class
+hh\ma\ac\inpt\domaine\ProductsWrapper.class
+hh\ma\ac\inpt\exceptions\NoSuchProductException.class
+hh\ma\ac\inpt\service\ProductManager.class
